@@ -1,0 +1,46 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex)
+ restricted \write18 enabled.
+entering extended mode
+(./0762ab19a92dbddff28ad478e057ef89.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/type1cm/type1cm.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/courier.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucs.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-global.def))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/utf8x.def))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (5058.9pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (5058.9pt) is ignored.
+
+)
+No file 0762ab19a92dbddff28ad478e057ef89.aux.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def)
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+! Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...0}{\rmfamily Beam 1 2 3 4.0 intensity [10^
+                                                  {13}p$]}
+[1] (./0762ab19a92dbddff28ad478e057ef89.aux) )
+(see the transcript file for additional information)
+Output written on 0762ab19a92dbddff28ad478e057ef89.dvi (1 page, 376 bytes).
+Transcript written on 0762ab19a92dbddff28ad478e057ef89.log.

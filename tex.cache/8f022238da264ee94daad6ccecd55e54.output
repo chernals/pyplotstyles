@@ -1,0 +1,52 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=latex)
+ restricted \write18 enabled.
+entering extended mode
+(./8f022238da264ee94daad6ccecd55e54.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/type1cm/type1cm.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathptmx.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/courier.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucs.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/data/uni-global.def))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/utf8x.def))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (5058.9pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (5058.9pt) is ignored.
+
+)
+No file 8f022238da264ee94daad6ccecd55e54.aux.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ucs/ucsencs.def)
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+> \OT1/ptm/m/n/11 .
+<recently read> \font 
+                      
+l.13 ...000000}{13.750000}{\rmfamily \showthe\font
+                                                   Brown $\alpha + 12 \sum_i$}
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlztmcm.fd)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsztmcm.fd)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxztmcm.fd) [1]
+(./8f022238da264ee94daad6ccecd55e54.aux) )
+(see the transcript file for additional information)
+Output written on 8f022238da264ee94daad6ccecd55e54.dvi (1 page, 484 bytes).
+Transcript written on 8f022238da264ee94daad6ccecd55e54.log.
