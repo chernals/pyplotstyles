@@ -1,4 +1,0 @@
-backend: ps
-text.dvipnghack : True
-font.family = serif
-font.serif = cm
