@@ -44,4 +44,4 @@ axes.linewidth        : 1
 #ytick.direction      : in     # direction: in, out, or inout
 
 ### Grids
-grid.color     : #333333
+grid.color     : 0.75
