@@ -16,8 +16,8 @@ ytick.labelsize: 10
 lines.linewidth: 1.5
 lines.markersize: 3
 figure.titleweight: normal
-savefig.dpi: 600
-#mathtext.rm: serif
-#mathtext.it: serif:italic
-#mathtext.bf: serif:bold
-#mathtext.fontset: custom
+savefig.dpi: 300
+mathtext.rm: serif
+mathtext.it: serif:italic
+mathtext.bf: serif:bold
+mathtext.fontset: custom
