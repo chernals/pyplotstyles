@@ -10,9 +10,9 @@ figure.dpi           : 300
 savefig.dpi          : 300
 
 ### Boxplot
-boxplot.notch         : False
-boxplot.vertical      : True
-boxplot.showfliers    : True
+#boxplot.notch         : False
+#boxplot.vertical      : True
+#boxplot.showfliers    : True
 
 ### Axes
 axes.unicode_minus    : True
