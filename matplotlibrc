@@ -1,13 +1,10 @@
-text.dvipnghack : True
-
 ### Lines
 lines.linewidth: 1.5
-lines.marker: .
 lines.markersize: 3
 
 ### Figure
 figure.dpi           : 300
-savefig.dpi          : 300
+savefig.dpi          : 300	
 
 ### Boxplot
 #boxplot.notch         : False

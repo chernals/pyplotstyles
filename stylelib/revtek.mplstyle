@@ -1,8 +1,10 @@
 backend: PS
 text.usetex: True
 text.latex.unicode: True
-font.family: xyzxyz
-font.serif: abcabc
+
+font.family: serif
+font.serif: cmr
+
 font.size: 10
 axes.titlesize: 10
 axes.labelsize: 10
@@ -13,11 +15,7 @@ xtick.labelsize: 10
 xtick.major.size: 4
 xtick.major.width: 0.5
 ytick.labelsize: 10
+ytick.major.size: 4
+ytick.major.width: 0.5
 lines.linewidth: 1.5
 lines.markersize: 3
-figure.titleweight: normal
-savefig.dpi: 300
-mathtext.rm: serif
-mathtext.it: serif:italic
-mathtext.bf: serif:bold
-mathtext.fontset: custom
